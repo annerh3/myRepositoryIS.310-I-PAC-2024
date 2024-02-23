@@ -22,9 +22,9 @@ const personas = [
     ]
 
 
-// for(let i=0; i<=personas.length;i++){
-//     console.log(personas[i]);
-// }
+for(let i=0; i<=personas.length;i++){
+    console.log(personas[i].apellido);
+}
 
 // personas.forEach(function(persona){
 //     console.log(persona);
